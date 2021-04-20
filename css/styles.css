@@ -10,7 +10,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  color: var(--black-bold)
+  color: var(--black-bold);
 }
 
 .logo-p1 {
@@ -25,72 +25,76 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
+  letter-spacing: 0.03em;
   line-height: 1.17;
 }
 
 .nav-menu {
   color: var(--black-bold);
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .link {
   color: var(--black-bold);
-  cursor:pointer;
+  cursor: pointer;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.02em;
 }
 
 .nav-menu .link.current {
-color: var(--ultramarine-logo);
+  color: var(--ultramarine-logo);
 }
 
 .nav-menu a:hover {
-color: var(--ultramarine-logo)
+  color: var(--ultramarine-logo);
 }
-
-
 
 .tel-mail-1 {
   color: var(--grey-limpid);
   font-weight: 500;
-  cursor:pointer;
+  cursor: pointer;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.02em;
 }
 
 .tel-mail-1:hover,
-.tel-mail-1:focus{
-  color:var(--ultramarine-logo);
+.tel-mail-1:focus {
+  color: var(--ultramarine-logo);
 }
 
 .mail-to {
   color: var(--grey-limpid);
-   font-weight: 500;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.02em;
 }
 
 .mail-to:focus,
 .mail-to:hover {
-  color: var(--ultramarine-logo)
+  color: var(--ultramarine-logo);
 }
 
 .tel-mail-2 {
   color: var(--grey-dust);
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 
 .tel-mail-2:hover,
-.tel-mail-2:focus{
-  color:var(--ultramarine-logo)
+.tel-mail-2:focus {
+  color: var(--ultramarine-logo);
 }
 
 .main-title {
   color: var(--white);
   font-size: 44px;
   line-height: 1.36;
+  letter-spacing: 0.06em;
 }
 
 .main-title-footer {
@@ -111,26 +115,28 @@ color: var(--ultramarine-logo)
   font-weight: 700;
 }
 
-
 .button {
   background-color: var(--ultramarine-logo);
   color: var(--grey-white);
   font-size: 16px;
   line-height: 1.87;
-  cursor:pointer;
+  letter-spacing: 0.06em;
+  cursor: pointer;
 }
 
 .traits {
-color: var(--black-bold);
-font-weight: 700;
-font-size: 14px;
-line-height: 1,17;
+  color: var(--black-bold);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 
 .under-traits {
-color: var(--grey-limpid);
-font-size: 14px;
-line-height: 1.7;
+  color: var(--grey-limpid);
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
 }
 
 .what-we-do {
@@ -138,6 +144,7 @@ line-height: 1.7;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 
 .team-section {
@@ -149,23 +156,26 @@ line-height: 1.7;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 
 .position {
   color: var(--grey-limpid);
   font-size: 16px;
   line-height: 1.7;
+  letter-spacing: 0.03em;
 }
 
 .address {
   color: var(--white);
   font-size: 14px;
   line-height: 1.7;
+  letter-spacing: 0.03em;
 }
 
 .address:hover,
 .address:focus {
-  color:var(--ultramarine-logo)
+  color: var(--ultramarine-logo);
 }
 
 .button-portfolio button {
@@ -173,25 +183,27 @@ line-height: 1.7;
   color: var(--black-bold);
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.62;
-  cursor:pointer;
+  line-height: 1.63;
+  letter-spacing: 0.03em;
+  cursor: pointer;
 }
 
-.button-portfolio button:hover{
+.button-portfolio button:hover {
   background-color: var(--ultramarine-logo);
   color: var(--white);
 }
 
-
-.projects h2 { 
+.projects h2 {
   color: var(--black-bold);
-   font-size: 18px;
-   font-weight: 700;
-   line-height: 2;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .projects p {
-  color: var(--grey-limpid); 
+  color: var(--grey-limpid);
   font-size: 16px;
   line-height: 1.9;
+  letter-spacing: 0.03em;
 }
